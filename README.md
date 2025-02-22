@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a common error involving raw pointers and vector modification.  The `bug.rs` file shows the incorrect code, leading to undefined behavior. The solution, `bugSolution.rs`, provides a safer, correct approach using proper Rust memory management techniques.
